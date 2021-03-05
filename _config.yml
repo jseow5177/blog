@@ -1,14 +1,14 @@
 title: Jonathan Seow # Shown in header on pages with full_logo: true
-short_logo: P. # Shown in header on all pages by default unless full_logo: true is set
+short_logo: J.S. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
-url: "https://ritijjain.github.io/pudhina-fresh" # Site base URL
+url: "http://localhost:4000" # Site base URL
 
 author:
-  name: Ritij Jain
-  github: ritijjain/pudhina-fresh # GitHub username, used for GitHub icon on the top right
-  linkedin: ritijjain # Your LinkedIn profile url name, used for LinkedIn icon on the top right
-  email: example@example.com # Used for email icon on the top right
+  name: Jonathan Seow
+  github: jseow5177 # GitHub username, used for GitHub icon on the top right
+  linkedin: jonathanseow5177 # Your LinkedIn profile url name, used for LinkedIn icon on the top right
+  email: jseow5177@gmail.com # Used for email icon on the top right
   homepage: https://ritijjain.com # This links to your name in post meta
   twitter: # Twitter username, used for Twitter Card Analytics 
 
