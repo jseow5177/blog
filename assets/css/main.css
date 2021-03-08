@@ -7,9 +7,10 @@
     color: #012;
     background-color: #FFF; } */
   
-  html, body, .wrapper {
+  html, body {
+    overflow-y: auto;
     height: 100%; }
-
+    
   a {
     color: #57A;
     text-decoration: none; }
@@ -44,7 +45,7 @@
 
   .wrapper {
     width: 80%;
-    padding: 60px 0;
+    padding: 50px 0;
     margin: 0 auto; }
  
   table {
@@ -120,6 +121,7 @@
   .page-title__subtitle {
     font-weight: 400;
     font-size: 60%;
+    margin-top: 0.5rem;
     color: #828282; }
 
 /* =Post teasers *//*************************************************************/
@@ -169,10 +171,7 @@
     color: #828282;
     text-align: center;
     line-height: 24px;
-    position: absolute;
-    width: inherit;
-    bottom: 0;
-    padding-bottom: inherit; }
+    width: 100%;}
 
   .about__divider {
     font-size: 100%;
@@ -207,7 +206,7 @@
 /* =Main Page *//*************************************************************/
   #intro {
     margin-top: 30px; }
-    
+
   #about-img {
     border-radius: 13%;
     max-width: 125px;
@@ -228,7 +227,7 @@
 
     .wrapper {
       width: 90%;
-      padding: 15px 0;
+      padding: 25px 0;
       margin: 0 auto; }
 
     .navigation,
@@ -236,6 +235,9 @@
       display: block;
       text-align: left;
       width: 100%; }
+
+      .social-links__entry:first-child {
+        margin-left: 0px; }
 
     .social-links {
       font-size: 200%;
