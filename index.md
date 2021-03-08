@@ -1,22 +1,22 @@
 ---
 layout: page
-full_logo: true
-title: 
-subtitle: 
+full_logo: false
 description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
 sitemap:
   priority: 1.0
 ---
-<p id="describe-text">A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>
-<br>
-This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
-
-Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<div id="intro">
+  <p id="describe-text">
+    My name is Jonathan Seow. I build software for fun and to survive.
+  </p>
+  <p>
+    I am a Malaysian who will be graduating 🎓 soon from Nanyang Technological University, Singapore.
+  </p>
+  <p>
+    After months of hard work 💫, I will be joining 
+    <a href="https://careers.shopee.sg/" target="_blank">Shopee</a> as a software engineer 👨‍💻 in June 2021.
+  </p>
+  <p>
+    I created this blog as a platform 📓 to share my technical experiences and knowledge. 
+  </p>
+</div>
