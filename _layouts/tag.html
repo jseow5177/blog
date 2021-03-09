@@ -40,6 +40,7 @@ layout: page
 
 <h1>Tags</h1>
 <br>
+<div>
 {% for page in site.pages %}
     {% if page.layout == 'tag' %}
         {% assign tag = page.tag %}
@@ -47,3 +48,5 @@ layout: page
         {% include tag_list.html %}
     {% endif %}
 {% endfor %}
+</div>
+<br>
