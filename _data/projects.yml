@@ -15,7 +15,7 @@
   id: p1
   img_src: /assets/img/projects/va-insight.png
   description_less: >
-    <p>VA Insight builds a data analysis web application for investigators.</p>
+    VA Insight builds a data analysis web application for investigators.
   description_more: >
     <p>Internship lasted from Aug 2020 to Jan 2021.</p>
 
@@ -27,7 +27,7 @@
   id: p2
   img_src: /assets/img/projects/movel.png
   description_less: >
-    <p>Movel AI builds AI-based autonomous navigation software for robots.</p>
+    Movel AI builds AI-based autonomous navigation software for robots.
   description_more: >
     <p>Internship lasted from April 2020 to July 2020.</p>
 
@@ -39,9 +39,9 @@
   id: p3
   img_src: /assets/img/projects/dev-talks.jpg
   description_less: >
-    <p>A web chat application built with the MERN Stack and Socket.io.</p> 
+    A web chat application built with the MERN Stack and Socket.io.
   description_more: >
-    <p>Project ended in June 2020.</p> 
+    <p>Project ended in June 2020.</p>
 
     <a href="https://github.com/jseow5177/DevTalks" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
     <a href="https://www.youtube.com/watch?v=CvGurchBVXU" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-laptop"></i> &nbsp Demo</a>
@@ -52,7 +52,7 @@
   id: p4
   img_src:
   description_less: >
-    <p>A Microservices-based web ticketing application.</p>
+    A Microservices-based web ticketing application.
   description_more: >
     <p>Project is part of an Udemy course.</p>
 
@@ -65,7 +65,7 @@
   id: p5
   img_src: /assets/img/projects/thullo.jpg
   description_less: >
-    <p>A clone of Trello, a Kanban-style tasks management web application.</p>
+    A clone of Trello, a Kanban-style tasks management web application.
   description_more: >
     <p>Project is still in progress.</p>
 
@@ -77,7 +77,7 @@
   id: p6
   img_src: /assets/img/projects/2nd-book.png
   description_less: >
-    <p>A book-sharing web application built with the MERN stack.</p>
+    A book-sharing web application built with the MERN stack.
   description_more: >
     <p>Project ended in Aug 2020.</p>
 
