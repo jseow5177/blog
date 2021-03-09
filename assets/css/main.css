@@ -9,7 +9,13 @@
   
   html, body {
     overflow-y: auto;
-    height: 100%; }
+    position: relative;
+    min-height: 100%; }
+
+  .wrapper {
+    min-height: 100vh;
+    padding-bottom: 72px; /* Footer height */
+  }
     
   a {
     color: #57A;
@@ -45,7 +51,7 @@
 
   .wrapper {
     width: 80%;
-    padding: 50px 0;
+    padding-top: 50px;
     margin: 0 auto; }
  
   table {
@@ -171,6 +177,8 @@
     color: #828282;
     text-align: center;
     line-height: 24px;
+    position: absolute;
+    bottom: 25px;
     width: 100%;}
 
   .about__divider {
@@ -219,15 +227,34 @@
     font-weight: 700;
     font-size: 130%; }
 
+/* =Project *//******************************************************************/
+@media screen and (max-width: 600px) {
+  .card-columns {
+    column-count: 1;
+  }
+}
+
+@media screen and (min-width: 600px) and (max-width: 1000px) {
+  .card-columns {
+    column-count: 2;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .card-columns {
+    column-count: 3;
+  }
+}
+
 /* =Small screen *//*************************************************************/
-  @media (max-width: 600px) {
+  @media screen and (max-width: 600px) {
     p, ul, ol, dl {
       font-size: 100%;
       line-height: 1.6; }
 
     .wrapper {
       width: 90%;
-      padding: 25px 0;
+      padding-top: 25px;
       margin: 0 auto; }
 
     .navigation,
