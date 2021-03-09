@@ -13,7 +13,7 @@
 
 - name: Software Developer Internship
   id: p1
-  img_src: /assets/img/va-insight.png
+  img_src: /assets/img/projects/va-insight.png
   description_less: >
     <p>VA Insight builds a data analysis web application for investigators.</p>
   description_more: >
@@ -21,11 +21,11 @@
 
     <a href="https://www.vainsight.com/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-building"></i> &nbsp Company</a>
 
-  tags: [Internship, Vue, Django, PostgresSQL, Docker]
+  tags: [internship, vue, django, postgres, docker]
 
 - name: Software Engineer Internship
   id: p2
-  img_src: /assets/img/movel.png
+  img_src: /assets/img/projects/movel.png
   description_less: >
     <p>Movel AI builds AI-based autonomous navigation software for robots.</p>
   description_more: >
@@ -33,11 +33,11 @@
 
     <a href="https://www.movel.ai/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-building"></i> &nbsp Company</a>
 
-  tags: [Internship, React, Node, Express, MongoDB]
+  tags: [internship, react, node, express, mongodb]
 
 - name: DevTalks
   id: p3
-  img_src: /assets/img/dev-talks.jpg
+  img_src: /assets/img/projects/dev-talks.jpg
   description_less: >
     <p>A web chat application built with the MERN Stack and Socket.io.</p> 
   description_more: >
@@ -46,11 +46,11 @@
     <a href="https://github.com/jseow5177/DevTalks" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
     <a href="https://www.youtube.com/watch?v=CvGurchBVXU" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-laptop"></i> &nbsp Demo</a>
 
-  tags: [React, Node, Express, MongoDB, Socket.IO]
+  tags: [react, node, express, mongodb, socketio]
 
 - name: GitTix
   id: p4
-  img_src: /assets/img/microservices.png
+  img_src:
   description_less: >
     <p>A Microservices-based web ticketing application.</p>
   description_more: >
@@ -59,11 +59,11 @@
     <a href="https://github.com/jseow5177/GitTix" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
     <a href="https://www.udemy.com/certificate/UC-52a85c2c-da85-4e25-9716-23b8bf8a6a45/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-certificate"></i> &nbsp Certificate</a>
 
-  tags: [TypeScript, NextJS, Node, Express, MongoDB, Docker, Kubernetes]
+  tags: [typescript, nextjs, node, express, mongodb, docker, kubernetes]
 
 - name: Thullo
   id: p5
-  img_src: /assets/img/thullo.jpg
+  img_src: /assets/img/projects/thullo.jpg
   description_less: >
     <p>A clone of Trello, a Kanban-style tasks management web application.</p>
   description_more: >
@@ -71,11 +71,11 @@
 
     <a href="https://github.com/jseow5177/Thullo" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
 
-  tags: [React, Django, PostgresSQL]
+  tags: [react, django, postgres]
 
 - name: 2nd Book
   id: p6
-  img_src: /assets/img/2nd-book.png
+  img_src: /assets/img/projects/2nd-book.png
   description_less: >
     <p>A book-sharing web application built with the MERN stack.</p>
   description_more: >
@@ -84,4 +84,4 @@
     <a href="https://github.com/jseow5177/2ndBook" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
     <a href="https://www.youtube.com/watch?v=sNkqTQHeZ2U" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-laptop"></i> &nbsp Demo</a>
 
-  tags: [React, Node, Express, MongoDB]
+  tags: [react, node, express, mongodb]
