@@ -1,7 +1,7 @@
 ---
 layout: page
 full_logo: false
-description: Hello! Welcome to my personal tech blog :)
+description: Hello! Welcome to my personal tech blog. I write about my programming experience and technical knowledge.
 sitemap:
   priority: 1.0
 ---
