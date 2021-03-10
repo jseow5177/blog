@@ -1,7 +1,7 @@
 ---
 layout: page
 full_logo: false
-description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+description: Hello! Welcome to my personal tech blog :)
 sitemap:
   priority: 1.0
 ---
